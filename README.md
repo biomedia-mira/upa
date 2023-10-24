@@ -2,7 +2,7 @@
 
 This repository contains all the necessary code to reproduce the experiments in our article
 > M. Roschewitz, G. Khara, J. Yearsley, N. Sharma, J.J. James, E. Ambrózay, A. Heroux, P. Kecskemethy, T. Rijken, B. Glocker.
-> [**Automatic correction of performance drift under acquisition shift in medical image classification**]([https://doi.org/10.1016/j.media.2022.102383](https://www.nature.com/articles/s41467-023-42396-y)).
+> [**Automatic correction of performance drift under acquisition shift in medical image classification**](https://www.nature.com/articles/s41467-023-42396-y).
 > Nature Communications (2023)
 
 ## Preliminaries
